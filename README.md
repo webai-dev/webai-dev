@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 I am a frontend web developer with 10 years of experience.
+
+🌱 My main tech stacks are React.js, Angular and Vue.js.
+
 <!--
 **webai-dev/webai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
